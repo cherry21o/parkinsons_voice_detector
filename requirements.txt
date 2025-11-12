@@ -1,0 +1,10 @@
+pandas = Spreadsheet tools 📊
+
+scikit-learn = AI brain tools 🧠
+
+librosa = Voice listening tools 🎵
+
+numpy = Math tools ➕
+
+joblib = Save/load tools 💾
+
